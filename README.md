@@ -14,9 +14,11 @@ To find clinical features that were more common in patients who died in order to
 
 ### Findings
 
-Found that patients who **died** from heart failure had, on average, **higher creatine phosphokinase** levels (21.5%), a **lower ejection fraction** (18.4%), and **higher serum creatinine** levels (43.1%) compared to patients who survived.
+Patients who **died** from heart failure had, on average: 
+* **Higher creatine phosphokinase** levels (21.5%)
+* A **lower ejection fraction** (18.4%)
+* **Higher serum creatinine** levels (43.1%) 
+Compared to patients who survived.
 
-Determined that focusing on these features may assist in early detection and management in patients with cardiovascular disease.
+Focusing on these features may assist in early detection and management in patients with cardiovascular disease.
 
-<img src =
-"https://github.com/akrasnogorska/heart-failure-predictors/blob/main/shutterstock_1134885563-1.jpeg?raw=true"/>
